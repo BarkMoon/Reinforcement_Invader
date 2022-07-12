@@ -22,10 +22,10 @@ mono_crash.*
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/*
-!/Release/IMAGE/*
-!/Release/SAVED_POLICY/*
-!/Release/強化インベーダー.exe
+/Release/*obj
+/Release/*log
+/Release/Log.txt
+/Release/*pdb
 [Rr]eleases/
 x64/
 x86/
